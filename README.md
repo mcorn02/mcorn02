@@ -1,0 +1,4 @@
+- Hi, I'm @mcorn02
+- I am interested in full stack development and web applications.
+- I am currently learning Java and C++
+- My LinkedIn is [here]( www.linkedin.com/in/michael-corn-941452238)
