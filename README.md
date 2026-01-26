@@ -1,4 +1,2 @@
-- Hi, I'm @mcorn02
-- I am interested in full stack development and web applications.
-- I am currently learning Java, Python, SQL and C++
+- Hi, I'm Michael Corn, current SDSU student & aspiring ML/AI Engineer.
 - My LinkedIn is [here]( www.linkedin.com/in/michael-corn-941452238)
