@@ -1,2 +1,2 @@
-- Hi, I'm Michael Corn, current SDSU student & aspiring ML/AI Engineer.
+- Hi, I'm Michael Corn, current SDSU student & AI/ML Builer and researcher.
 - My LinkedIn is [here]( www.linkedin.com/in/michael-corn-941452238)
