@@ -1,2 +1,2 @@
 - Hi, I'm Michael Corn, current AI/ML researcher and builder.
-- My LinkedIn is [here]([https://www.linkedin.com/in/michael-corn/])
+- My LinkedIn is [here]( [https://www.linkedin.com/in/michael-corn/] )
